@@ -1,4 +1,4 @@
-# Hi, I'm Ebenezer Ekuful 👋
+# Hi, I'm Ebenezer Ekuful 
 
 ### Junior Software Developer | Python • Flask • React
 
@@ -6,7 +6,7 @@ I'm a software developer focused on building practical, user-friendly web applic
 
 I hold a BSc in Materials Engineering from Kwame Nkrumah University of Science and Technology (KNUST) and completed the StartoCode Full Stack Python Developer learning path. I'm interested in combining software development with engineering to solve real-world problems.
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 - **Languages:** Python, JavaScript, HTML, CSS
 - **Backend:** Flask, SQLite, SQL
@@ -14,7 +14,7 @@ I hold a BSc in Materials Engineering from Kwame Nkrumah University of Science a
 - **Tools:** Git, GitHub
 - **Currently improving:** Deployment, testing, and production-ready application development
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### Student Portal
 A student information management web application built with Flask, Python, HTML, CSS, and JavaScript.
@@ -38,14 +38,14 @@ My personal website, which I'm developing to showcase my software projects, skil
 
 [Visit portfolio](https://ebbsonline3.github.io/Personalbrand/)
 
-## 🎯 Current Goals
+##  Current Goals
 
 - Build and deploy reliable web applications.
 - Strengthen my React and Python backend skills.
 - Collaborate with developers and learn from code reviews.
 - Pursue junior software developer opportunities.
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 - **LinkedIn:** [Ebenezer Ekuful](https://www.linkedin.com/in/ebenezer-ekuful/)
 - **Portfolio:** [ebbsonline3.github.io/Personalbrand](https://ebbsonline3.github.io/Personalbrand/)
